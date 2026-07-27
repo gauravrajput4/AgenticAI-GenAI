@@ -6,3 +6,7 @@
 2026-07-25 15:12:13 - ArithmaticApp - DEBUG - result: 15-10=5
 2026-07-25 15:12:13 - ArithmaticApp - DEBUG - result: 10*15=150
 2026-07-25 15:12:13 - ArithmaticApp - ERROR - Division by zero
+2026-07-27 16:57:42 - ArithmaticApp - DEBUG - result: 10+15=25
+2026-07-27 16:57:42 - ArithmaticApp - DEBUG - result: 15-10=5
+2026-07-27 16:57:42 - ArithmaticApp - DEBUG - result: 10*15=150
+2026-07-27 16:57:42 - ArithmaticApp - ERROR - Division by zero
