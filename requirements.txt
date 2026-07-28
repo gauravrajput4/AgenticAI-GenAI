@@ -1,3 +1,4 @@
+langchain-classic
 langchain
 python-dotenv
 langchain_community
@@ -12,3 +13,5 @@ chromadb
 langchain_huggingface
 faiss-cpu
 langchain-chroma
+beautifulsoup4
+langchain_ollama
